@@ -2,7 +2,7 @@ Package: mstHymer
 Title: MST Hymer R hjælpefunktioner
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Kristian", "Nielsen", , "kregnmst@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Nogle hjælpefunktioner og scripts til MST's håndtering af Hymer data i R.
 License: `use_mit_license()`
