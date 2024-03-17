@@ -1,3 +1,13 @@
+#' Indlæser Hymer AsCII eksport filer til dataframes i R
+#'
+#' @param
+#' Sti til Hymer AscII exportfilen
+#'
+#' @return
+#' En dataframe med alle exporterede Hymer serier
+#' @export
+#'
+#' @examples
 read_hymerASCII <- function(Hymer_ASCII){
 
   library(readr)
